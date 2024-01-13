@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Falashree Shirodkar</h1>
-- 🌱 I’m currently learning : javascript
+<h1 align="center">Hi 👋, I'm Falashree Shirodkar</h1> <br>
+- 🌱 I’m currently learning : javascript <br>
 
-- 💬 Ask me about: designing and animations
+- 💬 Ask me about: designing and animations <br>
 
 <p align="left">
 </p>

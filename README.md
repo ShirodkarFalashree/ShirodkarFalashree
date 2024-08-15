@@ -7,7 +7,7 @@ I'm a student currently pursuing a diploma in Computer Engineering with a passio
 
 - HTML/CSS/JS 
 - UI/UX development 
-- React.js(currently learning)
+- React.js
 
 ## Contact 🤝
 
